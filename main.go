@@ -8,7 +8,7 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/tejasneema/GoWebApp/HttpServerCore/handlers"
+	"github.com/tejasneema/GoWebApp/handlers"
 )
 
 func main() {
