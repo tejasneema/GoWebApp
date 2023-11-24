@@ -7,7 +7,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/tejasneema/GoWebApp/Product-API/data"
+	"github.com/tejasneema/GoWebApp/Core-Product-API/data"
 )
 
 type Products struct {
